@@ -1,4 +1,22 @@
-<!DOCTYPE html>
+app
+artisan
+bootstrap
+composer.json
+composer.lock
+config
+database
+package.json
+phpunit.xml
+Procfile
+public
+readme.md
+resources
+routes
+server.php
+storage
+tests
+vendor
+webpack.mix.js<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
